@@ -1,4 +1,4 @@
-# Week 3: Exception Handling & File I/O
+# Week 3: Data Structures
 
 Welcome to the repository for Week 3 of our Java learning journey. This week was centered around building fault-tolerant Java programs using exception handling and understanding how to perform file operations using various Java I/O classes.
 
@@ -8,12 +8,12 @@ Welcome to the repository for Week 3 of our Java learning journey. This week was
 
 - [Overview](#overview)
 - [Topics Covered](#topics-covered)
-  - [Day 1: Introduction to Exception Handling](#day-1-introduction-to-exception-handling)
-  - [Day 2: Types of Exceptions & Try-Catch Blocks](#day-2-types-of-exceptions--try-catch-blocks)
-  - [Day 3: Throw, Throws & Custom Exceptions](#day-3-throw-throws--custom-exceptions)
-  - [Day 4: File Handling Basics](#day-4-file-handling-basics)
-  - [Day 5: FileReader, FileWriter, BufferedReader](#day-5-filereader-filewriter-bufferedreader)
-  - [Day 6: Scanner Class & Try-With-Resources](#day-6-scanner-class--try-with-resources)
+  - [Day 1: Introduction of Data Structure ](#-Introduction-of-Data-Structure )
+  - [Day 2: Stack,Queue,HashMap and Hashing Function](#day-2Stack-,-Queue-,-HashMap-and-Hashing-Function)
+  - [Day 3: Sortingg Algorithm](#day-3-Sortingg-Alogorithms)
+  - [Day 4: Searching Algorithm](#day-4-Searching-Algorithm)
+  - [Day 5: Runtime Analysis](#day-5-Runtime-Analysis)
+  -
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
 
